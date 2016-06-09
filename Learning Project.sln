@@ -18,12 +18,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjects", "DataObjects\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessObjects", "BusinessObjects\BusinessObjects.csproj", "{8EC74780-AD73-42A9-BA50-4C1E48347501}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionService", "ActionService\ActionService.csproj", "{F0AAFA38-E246-417C-82B0-E279BB6DA532}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sql Server", "Sql Server", "{C71506EB-0351-43FC-AB9A-F4E4ECB1A435}"
 	ProjectSection(SolutionItems) = preProject
 		Action.sql = Action.sql
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceFacade", "ServiceFacade\ServiceFacade.csproj", "{F0AAFA38-E246-417C-82B0-E279BB6DA532}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
