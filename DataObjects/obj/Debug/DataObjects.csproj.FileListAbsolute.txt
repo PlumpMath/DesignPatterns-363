@@ -1,0 +1,12 @@
+C:\Users\krcr870\Desktop\Development\Patterns in Action\DataObjects\bin\Debug\DataObjects.dll.config
+C:\Users\krcr870\Desktop\Development\Patterns in Action\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\krcr870\Desktop\Development\Patterns in Action\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\krcr870\Desktop\Development\Patterns in Action\DataObjects\bin\Debug\AutoMapper.dll
+C:\Users\krcr870\Desktop\Development\Patterns in Action\DataObjects\bin\Debug\BusinessObjects.dll
+C:\Users\krcr870\Desktop\Development\Patterns in Action\DataObjects\bin\Debug\EntityFramework.dll
+C:\Users\krcr870\Desktop\Development\Patterns in Action\DataObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\krcr870\Desktop\Development\Patterns in Action\DataObjects\bin\Debug\AutoMapper.xml
+C:\Users\krcr870\Desktop\Development\Patterns in Action\DataObjects\bin\Debug\EntityFramework.xml
+C:\Users\krcr870\Desktop\Development\Patterns in Action\DataObjects\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
+C:\Users\krcr870\Desktop\Development\Patterns in Action\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\krcr870\Desktop\Development\Patterns in Action\DataObjects\obj\Debug\DataObjects.pdb
